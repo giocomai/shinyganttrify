@@ -3,10 +3,11 @@
 
 # shinyganttrify
 
-You like Gantt charts as produced by the `ganttrify` R package but
-you’re not really into R? Or perhaps, you really just want to empower
-your colleagues to make nice-looking Gantt charts. Well, here you are,
-and you’re very welcome.
+You like Gantt charts as produced by the [`ganttrify` R
+package](https://github.com/giocomai/ganttrify) but you’re not really
+into R? Or perhaps, you really just want to empower your colleagues to
+make nice-looking Gantt charts. Well, here you are, and you’re very
+welcome.
 
 With `shinyganttrify` you create Gantt charts directly through a web
 interface: you can use the [version kindly hosted by
@@ -15,7 +16,8 @@ locally, running `shiny_ganttrify()` just after installation.
 
 ## Installation
 
-Make sure to install also the `ganttrify` package, otherwise it won’t
+Make sure to install also the [`ganttrify`
+package](https://github.com/giocomai/ganttrify), otherwise it won’t
 work.
 
 ``` r
