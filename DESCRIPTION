@@ -1,0 +1,14 @@
+Package: shinyganttrify
+Title: Make nice-looking Gantt charts in a Shiny interface 
+Version: 0.1
+Authors@R: 
+    person(given = "Giorgio",
+           family = "Comai (OBCT/CCI)",
+           role = c("aut", "cre"),
+           email = "g@giorgiocomai.eu",
+           comment = c(ORCID = "0000-0002-0515-9542"))
+Description: You like Gantt charts as produced by the `ganttrify` R package but you're not really into R? Or perhaps, you really just want to empower your colleagues to make nice-looking Gantt charts. Well, here you are, and you're very welcome.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
