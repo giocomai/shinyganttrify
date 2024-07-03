@@ -12,7 +12,7 @@
 #' @export
 shiny_ganttrify <- function() {
   shiny::runApp(
-    appDir = system.file("shiny", package = "ganttrify"),
+    appDir = system.file("shiny", package = "shinyganttrify"),
     display.mode = "normal"
   )
 }
